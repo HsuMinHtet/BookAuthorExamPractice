@@ -12,7 +12,7 @@ import java.util.List;
 @Setter
 @NoArgsConstructor
 public class Book {
-
+//    I
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private Long id;
